@@ -5,7 +5,7 @@ class GoConfigYourself < Formula
   desc 'Want to store secrets in your repo? go config yourself!'
   homepage 'https://github.com/blinkhealth/go-config-yourself'
   url 'https://github.com/blinkhealth/go-config-yourself/releases/download/v0.0.0/gcy-macos-amd64.tgz'
-  sha256 '000Unreleased000'
+  sha256 '528c1680e2dd03a7b1ea0f56727622a57726dd1db23f19f334e5325aba505e2d'
   head 'https://github.com/blinkhealth/go-config-yourself', using: GithubPreReleaseDownloadStrategy
 
   def install
